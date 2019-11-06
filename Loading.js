@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function Loading() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>날씨를 로딩중입니다.</Text>
+      <Text style={styles.text}>날씨를 로딩중입니다.!!!</Text>
     </View>
   );
 }
